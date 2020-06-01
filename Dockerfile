@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/webhook@sha256:4528b0a54dd4ec91f0398856216b24532566618340c7ef6fd00345b776fb2c10
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/webhook@sha256:b1f72e974058576faf5f62d984d2ce4edb18b12ae4a4cd673d3fffe7d7706837
 MAINTAINER maryyang
